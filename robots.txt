@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-sitemap: https://blogdorelogio.pt/sitemap.xml
+sitemap: https://31dejunho.website/sitemap.xml
