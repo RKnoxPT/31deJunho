@@ -3,16 +3,16 @@ name: "31 de Junho"
 title: "31 de Junho"
 description: "Um Mundo ..."
 logo: ''
-favicon: 'assets/images/logohead.png'
-url: "https://blogdorelogio.pt"
+favicon: 'assets/images/31.png'
+url: "https://31dejunho.website"
 baseurl:  #/ #/ para GHPages
-google_analytics: 'UA-12132868-3'
+google_analytics: 'UA-'
 disqus: ''
 mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
 locale: pt_PT
-google_site_verification: "S3a4VjTKbILICe59QOaVODVG8t2UdaOCBtXLQdcmWDg"
+google_site_verification: "S3a4"
 
 
 # Authors
