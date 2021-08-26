@@ -12,6 +12,6 @@ Floresta no forestry
 
 _Italico_
 
-**negrito**
+**negrito.**
 
 > citaçao
