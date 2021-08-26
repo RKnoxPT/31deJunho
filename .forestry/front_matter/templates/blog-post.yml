@@ -8,8 +8,9 @@ fields:
 - type: text
   name: title
   label: title
-- type: list
-  name: categories
+- name: categories
+  type: tag_list
+  default: []
   label: categories
 - type: file
   name: image
@@ -19,4 +20,4 @@ fields:
   label: description
 pages:
 - _posts/2021-08-26-teste-forestry.md
-- _posts/rascunho.md
+- _posts/nhkgg.md
