@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Teste Forestry
-categories:
-- forestry
+categories: []
 image: "/uploads/forestry.jpg"
 description: Uma floresta
 
