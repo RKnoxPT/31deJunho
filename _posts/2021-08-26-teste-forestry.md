@@ -2,7 +2,7 @@
 layout: post
 title: Teste Forestry
 categories: []
-image: "/uploads/forestry.jpg"
+image: https://31dejunho.website/assets/images/forestry.jpg
 description: Uma floresta
 
 ---
