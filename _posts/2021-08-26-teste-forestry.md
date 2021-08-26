@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: post
 title: Teste Forestry
 categories: []
 image: "/uploads/forestry.jpg"
