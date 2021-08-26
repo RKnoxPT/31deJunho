@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Teste Forestry
-categories: []
+categories:
+- floresta
+- categoria
 image: https://31dejunho.website/assets/images/forestry.jpg
 description: Uma floresta
 
