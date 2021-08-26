@@ -5,6 +5,7 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: post
 - type: text
   name: title
   label: title
@@ -20,3 +21,4 @@ fields:
   label: description
 pages:
 - _posts/2021-08-26-teste-forestry.md
+- _posts/apagar.md
